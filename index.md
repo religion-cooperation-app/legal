@@ -7,4 +7,5 @@ title: Legal
 
 - [Privacy Policy](privacy-policy)
 
-- [Terms and Conditions](terms_conditons)
+- [Terms and Conditions](terms_conditions)
+
