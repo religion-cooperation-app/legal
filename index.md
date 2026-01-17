@@ -6,4 +6,5 @@ title: Legal
 # Legal documents
 
 - [Privacy Policy](privacy-policy)
-- [Terms of Use](terms-of-use)
+
+- [Terms and Conditions](terms_conditons)
