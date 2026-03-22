@@ -7,3 +7,4 @@ title: Legal
 
 - [Privacy Policy](privacy-policy)
 - [Terms and Conditions](terms_conditions)
+- [Data Deletion Request](data_delete_requests)
